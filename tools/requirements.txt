@@ -1,0 +1,14 @@
+rich
+click
+GitPython
+hexdump
+colorama
+ansiwrap
+watchdog
+python-Levenshtein
+cxxfilt
+pyelftools
+requests
+GitPython
+clang
+pyyaml

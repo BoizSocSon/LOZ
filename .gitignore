@@ -1,0 +1,36 @@
+# Compiler binaries
+mwcc_compiler/
+binutils/
+
+# Build artifacts
+build/
+*.o
+*.elf
+*.map
+*.dol
+vtable.lcf
+
+# Game Assets
+game/
+
+# Disk Images
+*.iso
+*.gcm
+
+# Generated documentation
+docs/doxygen/
+
+# Temporary files
+*.swp
+*.dump
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+venv/
+
+m2ctx.py
+ctx.c
